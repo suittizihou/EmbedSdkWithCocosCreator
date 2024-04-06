@@ -2,6 +2,9 @@
 
 Welcome to the EmbedSdkWithCocosCreator integration guide. Follow the steps below to set up the project in your development environment.
 
+Please see the following for an example of how it works.<br>
+https://discord.com/channels/613425648685547541/1220023876029911152
+
 ## Prerequisites
 Ensure you have the following installed:
 
