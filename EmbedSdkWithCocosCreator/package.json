@@ -1,0 +1,12 @@
+{
+  "name": "EmbedSdkWithCocosCreator",
+  "uuid": "be2473d0-9f2e-44fb-adbe-405c26973236",
+  "version": "3.0.0",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "@discord/embedded-app-sdk": "^1.0.2"
+  }
+}
